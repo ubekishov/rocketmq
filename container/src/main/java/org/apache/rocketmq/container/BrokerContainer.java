@@ -15,8 +15,6 @@
  * limitations under the License.
  */
 
-//Ulan Test
-
 package org.apache.rocketmq.container;
 
 import java.util.ArrayList;
